@@ -1,0 +1,40 @@
+header {
+	background-color: black;
+	height: 150px;
+	width: 100%;
+}
+
+
+.right {
+	background-color: #D8D8D8;
+	height: 700px;
+	width: 15%;
+	float: left;
+
+}
+
+/*.center {
+	background-color: black;
+	height: 100px;
+	width: 33%;*/
+/*	margin: auto;*/
+
+	
+/*ß*/
+
+.left {
+	background-color: #D8D8D8;
+	height: 700px;
+	width: 15%;
+	float: right;
+	
+}
+
+
+footer {
+	background-color: black;
+	height: 100px;
+	width: 70%;
+	margin-top: 600px;
+	margin-left: 15%;
+}
