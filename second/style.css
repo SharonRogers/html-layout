@@ -1,0 +1,34 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.One {
+	background-color: #4990E1;
+	height: 100%;
+	width: 33%;
+	float: left;
+
+}
+
+.Two {
+	background-color: #50E2C1;
+	height: 100%;
+	width: 33%;
+	float: left;
+}
+
+.Three {
+	background-color: #B8E986;
+	height: 80%;
+	width: 34%;
+	float: left;
+}
+
+img {
+	height: 20%;
+	width: 34%;
+	float: left;
+}
+
