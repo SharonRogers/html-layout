@@ -4,21 +4,18 @@ html, body {
 	margin: 0;
 }
 
-.One {
+header {
 	height: 15%;
 	width: 100%;
 	background-color: #D8D8D8;
 	float: top;
-	position: absolute;
+	padding: 15px;
 }
 
 .Onea {
 	height: 100px;
 	width: 100px;
 	background-color: #4A8FE1;
-	position: relative;
-	margin-left: 30px;
-	padding-top: 10px;
 }
 
 .Two {
@@ -50,7 +47,7 @@ html, body {
 }
 
 p {
-	font-family: tahoma;
+	font-family: sans-serif;
 	font-size: 30px;
-	padding: 30px;
+	padding: 80px;
 }
