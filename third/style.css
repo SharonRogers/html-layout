@@ -1,0 +1,56 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.One {
+	height: 15%;
+	width: 100%;
+	background-color: #D8D8D8;
+	float: top;
+	position: absolute;
+}
+
+.Onea {
+	height: 100px;
+	width: 100px;
+	background-color: #4A8FE1;
+	position: relative;
+	margin-left: 30px;
+	padding-top: 10px;
+}
+
+.Two {
+	height: 15%;
+	width: 100%;
+	background-color: #4A8FE1;
+	float: bottom;
+}
+
+.Three {
+	height: 15%;
+	width: 100%;
+	background-color: #50E3C1;
+	float: bottom;
+}
+
+.Four {
+	height: 15%;
+	width: 100%;
+	background-color: #B8E886;
+	float: bottom;
+}
+
+.Five {
+	height: 15%;
+	width: 100%;
+	background-color: #F8E71D;
+	float: bottom;
+}
+
+p {
+	font-family: tahoma;
+	font-size: 30px;
+	padding: 30px;
+}
